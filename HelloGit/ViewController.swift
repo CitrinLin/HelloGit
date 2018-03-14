@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func buttonClick1(_ sender: Any) {
-        print("Hello Git")
+        print("You finished!!")
     }
     
 }
